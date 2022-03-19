@@ -39,8 +39,8 @@
         "startDate": "Mar 2022",
         "description": "This project was my most recent that I have taken the time to develop for code fellows. In this project I was responsible for dynamically rendering a select beast by filtering the number of horns they have.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/horns/dragon1.jpg",
+          "images/portfolio/horns/dragon2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
